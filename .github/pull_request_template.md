@@ -1,7 +1,8 @@
-# Opisz zmiany
+## Opisz zmiany
 
-# Co dodałeś/zmieniłeś? (np. nowa funkcjonalność, poprawka, dokumentacja)
+## Co dodałeś/zmieniłeś? (np. nowa funkcjonalność, poprawka, dokumentacja)
 
-# Co sprawdziłeś?
+## Co sprawdziłeś?
 [x] - działanie kodu
 [x] - brak występowania błędów
+
